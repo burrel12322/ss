@@ -1,15 +1,6 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="" tvg-name="*****SHQIP TV*****" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg" group-title="Albania",*****SHQIP TV*****
 http://premium-ks.ddns.net:88/124rewhiiufdr7652pkhdsth/dd7FyGM6Pz/988
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother VIP Kos 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/bigbrothernl.jpg" group-title="Live: Albania",Big Brother VIP Kos 1 HD AL
-http://clientportal.link:80/KlXxbNbmWc454/WXNSWG362/89640
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother VIP Kos 2 HD AL" tvg-logo="https://picon-13398.kxcdn.com/bigbrothernl.jpg" group-title="Live: Albania",Big Brother VIP Kos 2 HD AL
-http://clientportal.link:80/KlXxbNbmWc454/WXNSWG362/89641
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother VIP 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/bigbrothernl.jpg" group-title="Live: Albania",Big Brother VIP 1 HD AL
-http://clientportal.link:80/KlXxbNbmWc454/WXNSWG362/117771
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother VIP 2 HD AL" tvg-logo="https://picon-13398.kxcdn.com/bigbrothernl.jpg" group-title="Live: Albania",Big Brother VIP 2 HD AL
-http://clientportal.link:80/KlXxbNbmWc454/WXNSWG362/117772
 #EXTINF:-1 tvg-id="rtk.al" tvg-name="AL: Rtk 1 HD" tvg-logo="http://hs-iptv.net:88/images/aa7e8e99e8c0131c090eb9ad20f8eaaf.png" group-title="Albania",AL: Rtk 1 HD
 http://premium-ks.ddns.net:88/124rewhiiufdr7652pkhdsth/dd7FyGM6Pz/3
 #EXTINF:-1 tvg-id="" tvg-name="AL: RTK SERIAL 1 HD" tvg-logo="" group-title="Albania",AL: RTK SERIAL 1 HD
